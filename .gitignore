@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment folders
+env/
+venv/
+.venv/
+
+# VS Code files
+.vscode/
+
+# PyCharm files
+.idea/
+
+# Mac OS metadata
+.DS_Store
+
+# Jupyter Notebook metadata
+*.nbconvert.ipynb
+
+# Environment variable files
+.env
+*.env
+
+# Data files (optional: keep your raw data out of git)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.db
+*.sqlite3
+*.h5
+*.parquet
+
+# Model files
+*.pkl
+*.joblib
+*.hdf5
+
+# Logs and output
+*.log
+*.out
+
+# pip
+pip-log.txt
+
+# Kaggle API token
+kaggle.json
