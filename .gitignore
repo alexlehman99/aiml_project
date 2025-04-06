@@ -28,7 +28,7 @@ venv/
 *.env
 
 # Data files (optional: keep your raw data out of git)
-*.csv
+# *.csv
 *.tsv
 *.xls
 *.xlsx
