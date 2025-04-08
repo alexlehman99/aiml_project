@@ -49,6 +49,6 @@ def rank_new_season(csv_path):
 
 
 # Rank teams for 1996 and 2024 seasons
-rank_1996_path, ranked_1996 = rank_new_season("test/1998_merged.csv")
+rank_1996_path, ranked_1996 = rank_new_season("test/2025_merged.csv")
 
 rank_1996_path, ranked_1996.head()
