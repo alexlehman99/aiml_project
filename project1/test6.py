@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.pipeline import Pipeline
 
 # Load historical training data
-df = pd.read_csv("combined_data_with_champions.csv")
+df = pd.read_csv("data/combined_data_with_champions.csv")
 
 # Identify numeric features (excluding target and Year)
 numeric_features = df.select_dtypes(include=[np.number]).columns.tolist()
@@ -49,6 +49,6 @@ def rank_new_season(csv_path):
 
 
 # Rank teams for 1996 and 2024 seasons
-rank_1996_path, ranked_1996 = rank_new_season("2025_merged.csv")
+rank_1996_path, ranked_1996 = rank_new_season("test/1998_merged.csv")
 
 rank_1996_path, ranked_1996.head()
