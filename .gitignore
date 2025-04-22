@@ -28,6 +28,8 @@ venv/
 *.env
 
 project2/data/*
+project2/images/*
+project2/*.tar.gz
 
 # Data files (optional: keep your raw data out of git)
 # *.csv
