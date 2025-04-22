@@ -27,6 +27,8 @@ venv/
 .env
 *.env
 
+project2/data/*
+
 # Data files (optional: keep your raw data out of git)
 # *.csv
 *.tsv
