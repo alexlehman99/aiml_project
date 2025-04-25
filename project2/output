@@ -1,0 +1,256 @@
+🔧 Starting training script...
+
+📁 Loading datasets...
+✅ Loaded 5911 training images, 1479 validation images
+🧬 Found 37 classes:
+   0: Abyssinian
+   1: Bengal
+   2: Birman
+   3: Bombay
+   4: British_Shorthair
+   5: Egyptian_Mau
+   6: Maine_Coon
+   7: Persian
+   8: Ragdoll
+   9: Russian_Blue
+  10: Siamese
+  11: Sphynx
+  12: american_bulldog
+  13: american_pit_bull_terrier
+  14: basset_hound
+  15: beagle
+  16: boxer
+  17: chihuahua
+  18: english_cocker_spaniel
+  19: english_setter
+  20: german_shorthaired
+  21: great_pyrenees
+  22: havanese
+  23: japanese_chin
+  24: keeshond
+  25: leonberger
+  26: miniature_pinscher
+  27: newfoundland
+  28: pomeranian
+  29: pug
+  30: saint_bernard
+  31: samoyed
+  32: scottish_terrier
+  33: shiba_inu
+  34: staffordshire_bull_terrier
+  35: wheaten_terrier
+  36: yorkshire_terrier
+🧠 Setting up model...
+🚀 Starting training...
+
+  [Epoch 1] Batch 10/185 - Loss: 3.1621
+  [Epoch 1] Batch 20/185 - Loss: 2.5531
+  [Epoch 1] Batch 30/185 - Loss: 2.0387
+  [Epoch 1] Batch 40/185 - Loss: 1.8150
+  [Epoch 1] Batch 50/185 - Loss: 1.4632
+  [Epoch 1] Batch 60/185 - Loss: 1.3159
+  [Epoch 1] Batch 70/185 - Loss: 1.1730
+  [Epoch 1] Batch 80/185 - Loss: 1.0812
+  [Epoch 1] Batch 90/185 - Loss: 0.9312
+  [Epoch 1] Batch 100/185 - Loss: 0.8038
+  [Epoch 1] Batch 110/185 - Loss: 0.8470
+  [Epoch 1] Batch 120/185 - Loss: 0.7512
+  [Epoch 1] Batch 130/185 - Loss: 0.6743
+  [Epoch 1] Batch 140/185 - Loss: 0.7759
+  [Epoch 1] Batch 150/185 - Loss: 0.7072
+  [Epoch 1] Batch 160/185 - Loss: 0.5867
+  [Epoch 1] Batch 170/185 - Loss: 0.5047
+  [Epoch 1] Batch 180/185 - Loss: 0.5663
+  [Epoch 1] Batch 185/185 - Loss: 0.6704
+✅ Epoch [1/10] - Train Acc: 0.741 | Val Acc: 0.890
+
+  [Epoch 2] Batch 10/185 - Loss: 0.3040
+  [Epoch 2] Batch 20/185 - Loss: 0.3336
+  [Epoch 2] Batch 30/185 - Loss: 0.2478
+  [Epoch 2] Batch 40/185 - Loss: 0.1802
+  [Epoch 2] Batch 50/185 - Loss: 0.3105
+  [Epoch 2] Batch 60/185 - Loss: 0.1463
+  [Epoch 2] Batch 70/185 - Loss: 0.2395
+  [Epoch 2] Batch 80/185 - Loss: 0.1649
+  [Epoch 2] Batch 90/185 - Loss: 0.2963
+  [Epoch 2] Batch 100/185 - Loss: 0.3236
+  [Epoch 2] Batch 110/185 - Loss: 0.2096
+  [Epoch 2] Batch 120/185 - Loss: 0.1275
+  [Epoch 2] Batch 130/185 - Loss: 0.3304
+  [Epoch 2] Batch 140/185 - Loss: 0.1489
+  [Epoch 2] Batch 150/185 - Loss: 0.3477
+  [Epoch 2] Batch 160/185 - Loss: 0.3536
+  [Epoch 2] Batch 170/185 - Loss: 0.1442
+  [Epoch 2] Batch 180/185 - Loss: 0.1733
+  [Epoch 2] Batch 185/185 - Loss: 0.1772
+✅ Epoch [2/10] - Train Acc: 0.952 | Val Acc: 0.895
+
+  [Epoch 3] Batch 10/185 - Loss: 0.1237
+  [Epoch 3] Batch 20/185 - Loss: 0.0813
+  [Epoch 3] Batch 30/185 - Loss: 0.0650
+  [Epoch 3] Batch 40/185 - Loss: 0.1207
+  [Epoch 3] Batch 50/185 - Loss: 0.0730
+  [Epoch 3] Batch 60/185 - Loss: 0.0615
+  [Epoch 3] Batch 70/185 - Loss: 0.0932
+  [Epoch 3] Batch 80/185 - Loss: 0.0630
+  [Epoch 3] Batch 90/185 - Loss: 0.0834
+  [Epoch 3] Batch 100/185 - Loss: 0.1144
+  [Epoch 3] Batch 110/185 - Loss: 0.0744
+  [Epoch 3] Batch 120/185 - Loss: 0.0638
+  [Epoch 3] Batch 130/185 - Loss: 0.0651
+  [Epoch 3] Batch 140/185 - Loss: 0.0546
+  [Epoch 3] Batch 150/185 - Loss: 0.0439
+  [Epoch 3] Batch 160/185 - Loss: 0.0476
+  [Epoch 3] Batch 170/185 - Loss: 0.0571
+  [Epoch 3] Batch 180/185 - Loss: 0.1014
+  [Epoch 3] Batch 185/185 - Loss: 0.0281
+✅ Epoch [3/10] - Train Acc: 0.992 | Val Acc: 0.912
+
+  [Epoch 4] Batch 10/185 - Loss: 0.0307
+  [Epoch 4] Batch 20/185 - Loss: 0.0772
+  [Epoch 4] Batch 30/185 - Loss: 0.0279
+  [Epoch 4] Batch 40/185 - Loss: 0.0292
+  [Epoch 4] Batch 50/185 - Loss: 0.0234
+  [Epoch 4] Batch 60/185 - Loss: 0.0364
+  [Epoch 4] Batch 70/185 - Loss: 0.0258
+  [Epoch 4] Batch 80/185 - Loss: 0.0293
+  [Epoch 4] Batch 90/185 - Loss: 0.0186
+  [Epoch 4] Batch 100/185 - Loss: 0.0234
+  [Epoch 4] Batch 110/185 - Loss: 0.0249
+  [Epoch 4] Batch 120/185 - Loss: 0.0663
+  [Epoch 4] Batch 130/185 - Loss: 0.0188
+  [Epoch 4] Batch 140/185 - Loss: 0.0563
+  [Epoch 4] Batch 150/185 - Loss: 0.0222
+  [Epoch 4] Batch 160/185 - Loss: 0.0222
+  [Epoch 4] Batch 170/185 - Loss: 0.0146
+  [Epoch 4] Batch 180/185 - Loss: 0.0243
+  [Epoch 4] Batch 185/185 - Loss: 0.0168
+✅ Epoch [4/10] - Train Acc: 0.998 | Val Acc: 0.930
+
+  [Epoch 5] Batch 10/185 - Loss: 0.0160
+  [Epoch 5] Batch 20/185 - Loss: 0.0135
+  [Epoch 5] Batch 30/185 - Loss: 0.0198
+  [Epoch 5] Batch 40/185 - Loss: 0.0156
+  [Epoch 5] Batch 50/185 - Loss: 0.0210
+  [Epoch 5] Batch 60/185 - Loss: 0.0124
+  [Epoch 5] Batch 70/185 - Loss: 0.0136
+  [Epoch 5] Batch 80/185 - Loss: 0.0288
+  [Epoch 5] Batch 90/185 - Loss: 0.0156
+  [Epoch 5] Batch 100/185 - Loss: 0.0186
+  [Epoch 5] Batch 110/185 - Loss: 0.0099
+  [Epoch 5] Batch 120/185 - Loss: 0.0328
+  [Epoch 5] Batch 130/185 - Loss: 0.0167
+  [Epoch 5] Batch 140/185 - Loss: 0.0418
+  [Epoch 5] Batch 150/185 - Loss: 0.0147
+  [Epoch 5] Batch 160/185 - Loss: 0.0172
+  [Epoch 5] Batch 170/185 - Loss: 0.0453
+  [Epoch 5] Batch 180/185 - Loss: 0.0094
+  [Epoch 5] Batch 185/185 - Loss: 0.0435
+✅ Epoch [5/10] - Train Acc: 1.000 | Val Acc: 0.917
+
+  [Epoch 6] Batch 10/185 - Loss: 0.0064
+  [Epoch 6] Batch 20/185 - Loss: 0.0087
+  [Epoch 6] Batch 30/185 - Loss: 0.0170
+  [Epoch 6] Batch 40/185 - Loss: 0.0065
+  [Epoch 6] Batch 50/185 - Loss: 0.0140
+  [Epoch 6] Batch 60/185 - Loss: 0.0154
+  [Epoch 6] Batch 70/185 - Loss: 0.0063
+  [Epoch 6] Batch 80/185 - Loss: 0.0065
+  [Epoch 6] Batch 90/185 - Loss: 0.0121
+  [Epoch 6] Batch 100/185 - Loss: 0.0099
+  [Epoch 6] Batch 110/185 - Loss: 0.0104
+  [Epoch 6] Batch 120/185 - Loss: 0.0058
+  [Epoch 6] Batch 130/185 - Loss: 0.0079
+  [Epoch 6] Batch 140/185 - Loss: 0.0066
+  [Epoch 6] Batch 150/185 - Loss: 0.0039
+  [Epoch 6] Batch 160/185 - Loss: 0.0050
+  [Epoch 6] Batch 170/185 - Loss: 0.0040
+  [Epoch 6] Batch 180/185 - Loss: 0.0089
+  [Epoch 6] Batch 185/185 - Loss: 0.0075
+✅ Epoch [6/10] - Train Acc: 1.000 | Val Acc: 0.924
+
+  [Epoch 7] Batch 10/185 - Loss: 0.0057
+  [Epoch 7] Batch 20/185 - Loss: 0.0084
+  [Epoch 7] Batch 30/185 - Loss: 0.0081
+  [Epoch 7] Batch 40/185 - Loss: 0.0086
+  [Epoch 7] Batch 50/185 - Loss: 0.0081
+  [Epoch 7] Batch 60/185 - Loss: 0.0043
+  [Epoch 7] Batch 70/185 - Loss: 0.0065
+  [Epoch 7] Batch 80/185 - Loss: 0.0038
+  [Epoch 7] Batch 90/185 - Loss: 0.0092
+  [Epoch 7] Batch 100/185 - Loss: 0.0065
+  [Epoch 7] Batch 110/185 - Loss: 0.0032
+  [Epoch 7] Batch 120/185 - Loss: 0.0040
+  [Epoch 7] Batch 130/185 - Loss: 0.0087
+  [Epoch 7] Batch 140/185 - Loss: 0.0041
+  [Epoch 7] Batch 150/185 - Loss: 0.0058
+  [Epoch 7] Batch 160/185 - Loss: 0.0139
+  [Epoch 7] Batch 170/185 - Loss: 0.0059
+  [Epoch 7] Batch 180/185 - Loss: 0.0080
+  [Epoch 7] Batch 185/185 - Loss: 0.0265
+✅ Epoch [7/10] - Train Acc: 1.000 | Val Acc: 0.926
+
+  [Epoch 8] Batch 10/185 - Loss: 0.0039
+  [Epoch 8] Batch 20/185 - Loss: 0.0050
+  [Epoch 8] Batch 30/185 - Loss: 0.0066
+  [Epoch 8] Batch 40/185 - Loss: 0.0044
+  [Epoch 8] Batch 50/185 - Loss: 0.0055
+  [Epoch 8] Batch 60/185 - Loss: 0.0037
+  [Epoch 8] Batch 70/185 - Loss: 0.0050
+  [Epoch 8] Batch 80/185 - Loss: 0.0042
+  [Epoch 8] Batch 90/185 - Loss: 0.0030
+  [Epoch 8] Batch 100/185 - Loss: 0.0041
+  [Epoch 8] Batch 110/185 - Loss: 0.0037
+  [Epoch 8] Batch 120/185 - Loss: 0.0048
+  [Epoch 8] Batch 130/185 - Loss: 0.0043
+  [Epoch 8] Batch 140/185 - Loss: 0.0024
+  [Epoch 8] Batch 150/185 - Loss: 0.0058
+  [Epoch 8] Batch 160/185 - Loss: 0.0054
+  [Epoch 8] Batch 170/185 - Loss: 0.0053
+  [Epoch 8] Batch 180/185 - Loss: 0.0063
+  [Epoch 8] Batch 185/185 - Loss: 0.0025
+✅ Epoch [8/10] - Train Acc: 1.000 | Val Acc: 0.924
+
+  [Epoch 9] Batch 10/185 - Loss: 0.0083
+  [Epoch 9] Batch 20/185 - Loss: 0.0036
+  [Epoch 9] Batch 30/185 - Loss: 0.0080
+  [Epoch 9] Batch 40/185 - Loss: 0.0027
+  [Epoch 9] Batch 50/185 - Loss: 0.0077
+  [Epoch 9] Batch 60/185 - Loss: 0.0033
+  [Epoch 9] Batch 70/185 - Loss: 0.0033
+  [Epoch 9] Batch 80/185 - Loss: 0.0069
+  [Epoch 9] Batch 90/185 - Loss: 0.0160
+  [Epoch 9] Batch 100/185 - Loss: 0.0046
+  [Epoch 9] Batch 110/185 - Loss: 0.0030
+  [Epoch 9] Batch 120/185 - Loss: 0.0034
+  [Epoch 9] Batch 130/185 - Loss: 0.0090
+  [Epoch 9] Batch 140/185 - Loss: 0.0038
+  [Epoch 9] Batch 150/185 - Loss: 0.0038
+  [Epoch 9] Batch 160/185 - Loss: 0.0028
+  [Epoch 9] Batch 170/185 - Loss: 0.0026
+  [Epoch 9] Batch 180/185 - Loss: 0.0041
+  [Epoch 9] Batch 185/185 - Loss: 0.0030
+✅ Epoch [9/10] - Train Acc: 1.000 | Val Acc: 0.921
+
+  [Epoch 10] Batch 10/185 - Loss: 0.0021
+  [Epoch 10] Batch 20/185 - Loss: 0.0041
+  [Epoch 10] Batch 30/185 - Loss: 0.0031
+  [Epoch 10] Batch 40/185 - Loss: 0.0025
+  [Epoch 10] Batch 50/185 - Loss: 0.0027
+  [Epoch 10] Batch 60/185 - Loss: 0.0024
+  [Epoch 10] Batch 70/185 - Loss: 0.0030
+  [Epoch 10] Batch 80/185 - Loss: 0.0035
+  [Epoch 10] Batch 90/185 - Loss: 0.0022
+  [Epoch 10] Batch 100/185 - Loss: 0.0028
+  [Epoch 10] Batch 110/185 - Loss: 0.0018
+  [Epoch 10] Batch 120/185 - Loss: 0.0021
+  [Epoch 10] Batch 130/185 - Loss: 0.0035
+  [Epoch 10] Batch 140/185 - Loss: 0.0027
+  [Epoch 10] Batch 150/185 - Loss: 0.0022
+  [Epoch 10] Batch 160/185 - Loss: 0.0023
+  [Epoch 10] Batch 170/185 - Loss: 0.0038
+  [Epoch 10] Batch 180/185 - Loss: 0.0058
+  [Epoch 10] Batch 185/185 - Loss: 0.0056
+✅ Epoch [10/10] - Train Acc: 1.000 | Val Acc: 0.922
+
+💾 Model saved as breed_classifier_resnet18.pt
