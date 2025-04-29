@@ -56,3 +56,5 @@ pip-log.txt
 
 # Kaggle API token
 kaggle.json
+project2/criterion.pt
+project2/optimizer.pt
