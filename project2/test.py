@@ -62,4 +62,4 @@ def predict_image(img_path):
     print(f"🔮 Prediction: {predicted_breed}")
 
 if __name__ == "__main__":
-    predict_image("download.png")
+    predict_image("demo_images/secret.JPEG")
